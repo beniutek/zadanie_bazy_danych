@@ -271,6 +271,7 @@
       <DependentUpon>NorthwindModel.edmx</DependentUpon>
       <LastGenOutput>NorthwindModel.cs</LastGenOutput>
     </Content>
+    <Content Include="Scripts\bootstrap-2.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <EntityDeploy Include="NorthwindModel.edmx">
