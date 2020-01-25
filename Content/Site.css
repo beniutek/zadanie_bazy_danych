@@ -5,8 +5,7 @@
 
 /* Set padding to keep content from hitting the edges */
 .body-content {
-    padding-left: 15px;
-    padding-right: 15px;
+  width: 90%;
 }
 
 /* Override the default bootstrap behavior where horizontal description lists 
@@ -21,4 +20,14 @@ input,
 select,
 textarea {
     max-width: 280px;
+}
+
+.table-custom > .row-fax {
+  min-width: 120px;
+}
+.table-custom > .row-phone {
+  min-width: 120px;
+}
+.table-custom > .row-actions {
+  min-width: 120px;
 }
