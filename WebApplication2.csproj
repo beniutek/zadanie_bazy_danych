@@ -137,6 +137,7 @@
     <Compile Include="Category_Sales_for_1997.cs">
       <DependentUpon>NorthwindModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="Controllers\HelloWorldController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Current_Product_List.cs">
       <DependentUpon>NorthwindModel.tt</DependentUpon>
@@ -305,6 +306,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
+    <Folder Include="Views\HelloWorld\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
